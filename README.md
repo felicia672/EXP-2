@@ -38,8 +38,8 @@ Procedure
 5.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Procedure for Load test:
-
-1.   Connections are given as per the circuit diagram
+   
+1.    Connections are given as per the circuit diagram
 2.   The prime mover is started with the help of three point starter and it is made to run at rated speed when the generator is disconnected from the load by DPST switch 2.
 3.   By varying the generator field rheostat gradually, the rated voltage [Eg] is obtained.
 4.   The ammeter and voltmeter readings are observed at no load condition.
@@ -48,16 +48,24 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test
-
 Tabulation for Load Test:
+<img width="1425" height="648" alt="Screenshot 2026-10-17 084720" src="https://github.com/user-attachments/assets/7672597d-ee68-4cbc-a8fd-313313d6ff34" />
 
 Model graph:
+<img width="1392" height="430" alt="Screenshot 2026-10-17 090600" src="https://github.com/user-attachments/assets/fc0172b8-aebc-4af0-ba50-161bad8908a5" />
+
 Calculation: 
+<img width="305" height="231" alt="Screenshot 2026-10-17 092430" src="https://github.com/user-attachments/assets/ab1cdfa6-f6c1-4ef2-8076-dbacc81ca83a" />
 
-Open circuit characteristics
+Tabulation for magnetization load characteristics:
+<img width="1155" height="656" alt="Screenshot 2026-10-17 084752" src="https://github.com/user-attachments/assets/4fd917fa-e133-481e-87d2-6024d9007c9a" />
+<img width="1132" height="637" alt="Screenshot 2026-10-17 084809" src="https://github.com/user-attachments/assets/b1862cd4-81ce-420c-bb8e-6478aa738736" />
 
-  
-Load Characteristics:
- 
+Model graph:
+<img width="745" height="305" alt="image" src="https://github.com/user-attachments/assets/872ad1a8-a78b-45eb-a7bc-bd98461b45ab" />
+
+Calculation:
+<img width="305" height="307" alt="image" src="https://github.com/user-attachments/assets/a5d306f6-2840-4928-9acd-d99d292e6cc4" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
